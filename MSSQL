@@ -1,1 +1,7 @@
+Create data base
+CREATE DATABASE CompanyDB;
+GO
+
+USE CompanyDB;
+GO
 
